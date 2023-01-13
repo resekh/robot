@@ -45,7 +45,7 @@ ujson
 pretty_errors
 pygithub
 TgCrypto
-Pyrogram==1.4.16
+Pyrogram==2.0.97
 PyDictionary
 yt-dlp
 youtube_search_python==1.4.9
